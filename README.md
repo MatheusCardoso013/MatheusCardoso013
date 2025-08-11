@@ -1,26 +1,11 @@
-# Olá, eu sou o Matheus Cardoso 👋
+# Hey, I'm Matheus 👋
 
-Sou um desenvolvedor Full-Stack apaixonado por tecnologia, com experiência em React, TypeScript, JavaScript, C# .NET, Laravel e banco de dados SQL.
+I'm a full-stack developer passionate about building web applications. I’m currently deepening my skills in React, Vue.js, Laravel, and C# .NET while studying Information Systems at Santa Cecilia University. The projects here are mostly personal experiments to enhance my knowledge and stay up-to-date with the latest technologies.
 
-Atualmente estudo Sistemas de Informação na Universidade Santa Cecília e estou em constante aprendizado para evoluir na minha carreira de desenvolvimento de software.
-
----
-
-## 🚀 Tecnologias e habilidades
-
-- Frontend: React, Vue.js, TypeScript, HTML, CSS, PrimeVue
-- Backend: C# .NET, Laravel, Node.js (básico)
-- Banco de Dados: SQLite, MySQL
-- Ferramentas: Git, GitHub, VS Code, Swagger
-- Metodologias: REST APIs, Inertia.js
-
----
-
-## 📂 Projetos
-
-Aqui no meu GitHub você vai encontrar projetos de websites, sistemas de controle, APIs e aplicações front-end com integração back-end, todos com foco em boas práticas e organização.
-
----
+# 💻 Languages and Tools
+ <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+ <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+ <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 ## 📫 Contato
 
@@ -28,5 +13,3 @@ Aqui no meu GitHub você vai encontrar projetos de websites, sistemas de control
 - Email: cardosomatheus2005@outlook.com
 
 ---
-
-Obrigado pela visita! Fique à vontade para explorar meus projetos e contribuir.
