@@ -24,3 +24,12 @@ When I'm not coding, I really enjoy watching MMA fights. They provide an excitin
 
 # 🏆 Certifications
 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://www.credly.com/badges/c82a406b-7734-429a-acd9-bc87586f7b5a/public_url" target="_blank">
+    <img src="./aws-ai.png" width="110" alt="AWS Certified AI Practitioner Badge">
+  </a>
+  
+  <a href="https://www.credly.com/badges/a3c1a10f-5118-46c8-9225-a476cd419256/public_url" target="_blank">
+    <img src="./aws-cp.png" width="110" alt="AWS Certified Cloud Practitioner Badge">
+  </a>
+</div>
