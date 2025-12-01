@@ -18,15 +18,15 @@ When I'm not coding, I really enjoy watching MMA fights. They provide an excitin
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
-<br>
+
 # 🏆 Certifications
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <a href="https://www.credly.com/badges/c82a406b-7734-429a-acd9-bc87586f7b5a/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/05c8794c-7726-4444-934c-62b14c330df3/image.png" width="110" alt="AWS Certified AI Practitioner Badge">
+  <a href="https://www.credly.com/badges/a3c1a10f-5118-46c8-9225-a476cd419256/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner">
   </a>
   
-  <a href="https://www.credly.com/badges/a3c1a10f-5118-46c8-9225-a476cd419256/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner Badge">
+  <a href="https://www.credly.com/badges/c82a406b-7734-429a-acd9-bc87586f7b5a/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner">
   </a>
 </div>
