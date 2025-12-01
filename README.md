@@ -2,13 +2,10 @@
 
 I'm a full-stack developer passionate about building web applications. I’m currently deepening my skills in React, Vue.js, Laravel, and C# .NET while studying Information Systems at Santa Cecilia University. The projects here are mostly personal experiments to enhance my knowledge and stay up-to-date with the latest technologies.
 
-<br clear="all">
-
 # 💥 Interests
 
 When I'm not coding, I really enjoy watching MMA fights. They provide an exciting way to unwind and offer valuable lessons in discipline, strategy, and resilience that inspire me both personally and professionally.
 
-<br clear="all">
 
 # 💻 Languages and Tools
 
