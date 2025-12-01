@@ -6,10 +6,6 @@ I'm a full-stack developer passionate about building web applications. I’m cur
 
 When I'm not coding, I really enjoy watching MMA fights. They provide an exciting way to unwind and offer valuable lessons in discipline, strategy, and resilience that inspire me both personally and professionally.
 
-# Certifications
-
-<img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://content.cloudthat.com/resources/wp-content/uploads/2023/12/dgt.png" />
-
 # 💻 Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
